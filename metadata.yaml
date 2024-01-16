@@ -1,5 +1,8 @@
 _repo: Playwrights-on-playmaking-b-and-other-studies-of-the-stage_72661
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72661-h/images/cover.jpg
 creator:
   author:
     agent_name: Matthews, Brander
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: https://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72661#Playwrights-on-playmaking-b-and-other-studies-of-the-stage
 gutenberg_issued: '2024-01-08'
 gutenberg_type: Text
 identifiers:
